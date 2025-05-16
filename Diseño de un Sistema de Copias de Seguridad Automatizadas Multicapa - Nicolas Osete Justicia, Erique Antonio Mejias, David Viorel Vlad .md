@@ -574,7 +574,7 @@ Si en una infraestructura se utiliza únicamente RAID sin realizar copias de seg
 | Sincronización entre servidores | Resilio Sync, Syncthing, Rsync |
 | Monitorización | Zabbix, Nagios, Prometheus |
 
-*(Puedes añadir más si lo crees necesario)*
+
 
 ---
 
